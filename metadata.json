@@ -1,0 +1,7 @@
+{
+  "name": "Fruit Slice",
+  "description": "A polished mobile-friendly fruit slicing arcade game featuring fast swipe physics, dynamic fruit splatters, combos, and responsive touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
